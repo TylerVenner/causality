@@ -47,7 +47,7 @@ st.markdown(
     * **[Report a Bug](https://github.com/TylerVenner/causality/issues)** (Let me know if you find issues.)
     
     **Connect with me:**
-    * **[My LinkedIn Profile](www.linkedin.com/in/tylervenner)** (Let's connect!)
+    * **[My LinkedIn Profile](https://www.linkedin.com/in/tylervenner)** (Let's connect!)
     """
 )
 
