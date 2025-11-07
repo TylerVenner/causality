@@ -206,7 +206,7 @@ st.markdown(
     """
 )
 
-st.divier()
+st.divider()
 st.header("My Hope")
 st.markdown(
     """
