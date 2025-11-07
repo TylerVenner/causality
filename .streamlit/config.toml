@@ -1,0 +1,4 @@
+[theme]
+backgroundColor="#F5F5DC"  # This is a common hex code for beige
+secondaryBackgroundColor="#E8E4C9" # A slightly darker beige for sidebars/expanders
+textColor="#000000" # Black text for readability
